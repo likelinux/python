@@ -14,7 +14,7 @@ $ curl https://raw.githubusercontent.com/likelinux/python/master/support/vimrc -
 - On [CentOS7](https://raw.githubusercontent.com/likelinux/python/master/support/centos7_python.sh)
 
 ## Simple Examples
-Simple Examples are use to understand concept at the base level. Its present at [Simple Examples](https://github.com/likelinux/python/tree/master/simple_example)
+Simple Examples are use to understand concept at the base level. Its present at [Simple Examples](https://github.com/likelinux/python/tree/master/simple_examples)
 
 ## Documents
 This will help to understand how to run certain things. It can be found at [Docs](https://github.com/likelinux/python/tree/master/docs)
