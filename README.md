@@ -10,6 +10,6 @@ $ curl https://raw.githubusercontent.com/likelinux/python/master/support/vimrc -
 
 ## Installing Python
 
--On [Ubuntu](https://raw.githubusercontent.com/likelinux/python/master/support/ubuntu_python.sh)
--On [CentOS7](https://raw.githubusercontent.com/likelinux/python/master/support/centos7_python.sh)
+- On [Ubuntu](https://raw.githubusercontent.com/likelinux/python/master/support/ubuntu_python.sh)
+- On [CentOS7](https://raw.githubusercontent.com/likelinux/python/master/support/centos7_python.sh)
 
