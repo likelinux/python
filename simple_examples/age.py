@@ -1,0 +1,5 @@
+DOB = 1982
+DOD = 2018
+AGE = DOD - DOB
+print(AGE)
+
